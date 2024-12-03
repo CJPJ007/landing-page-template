@@ -8,9 +8,9 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} Your Company Name. All Rights Reserved.
         </p>
         <div className="flex justify-center space-x-4 mt-4">
-          <a href="#" className="hover:text-blue-400">Privacy Policy</a>
-          <a href="#" className="hover:text-blue-400">Terms of Service</a>
-          <a href="#" className="hover:text-blue-400">Contact Us</a>
+          <a href="/" className="hover:text-blue-400">Privacy Policy</a>
+          <a href="/" className="hover:text-blue-400">Terms of Service</a>
+          <a href="/" className="hover:text-blue-400">Contact Us</a>
         </div>
       </div>
     </footer>
